@@ -87,10 +87,6 @@ nav a:first-child {
 
 }
 
-/* .card {
-  float: right;
-  display: flex;
-} */
 
 /* footer */
 
@@ -171,11 +167,13 @@ h2 {
 
 .auth-image {
   float: left;
-  width: 200px;
+  width: 30%;
+  /* width: 200px; */
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
 }
+
 
 /* contact page */
 
